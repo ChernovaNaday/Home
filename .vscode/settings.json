@@ -1,0 +1,6 @@
+{
+    "git.enableStatusBarSync": true,
+    "explorer.excludeGitIgnore": false,
+    "git.rememberPostCommitCommand": false,
+    "git.terminalGitEditor": false
+}
