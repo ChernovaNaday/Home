@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+
+    <title>Главная страница</title>
+
+    <style>
+
+    label {
+       font-style: italic;
+    }
+    table {
+        border-collapse: collapse; width: 80%;
+
+    }
+    th, td {
+        border: solid 1px;
+
+    }
+    </style>
+</head>
+<body>
+
+    <h1>Анкета</h1>
+
+    <form action="#" method="post" enctype="application/x-www-form-urlencoded">
+
+        <p>
+            <label for="name">Имя</label>
+            <input id="name" name="name" type="text" />
+        </p>
+
+        <p>
+            <label for="surname">Фамилия</label>
+            <input id="surname" name="surname" type="text" />
+        </p>
+
+        <p>
+            <label for="phone">Телефон</label>
+            <input name="phone" type="text" placeholder="+79118562346" maxlength="11" />
+        </p>
+
+        <p>
+            <label for="age">Возраст</label>
+            <input name="age" type="number" min="0" max="90" step="5"/>
+        </p>
+
+        <p>
+            <label for="gendr">Женский</label>
+            <input name="gender" type="checkbox"/>
+        </p>
+
+        <p>
+            <label for="gendr2">Мужской</label>
+            <input name="gender2" type="checkbox"/>
+        </p>
+
+        <p>
+            <label for="job">Работаете</label>
+            <input name="job" type="radio"/>
+        </p>
+
+        <p>
+            <label for="job2">Учитетесь</label>
+            <input name="job2" type="radio"/>
+        </p>
+
+        <p>
+            <label for="fale">Прикрепите файл</label>
+            <input name="fale" type="file"/>
+        </p>
+
+        <p>
+            <label for="color">Выбирете цвет</label>
+            <input name="color" type="color"/>
+        </p>
+        
+
+        <p>
+            <input type="submit" value="Отправить" style="font-size: large;color: blue;" />
+            <input type="reset" value="Сбросить"  style="color: black;"/>
+        </p>
+
+    </form>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Товар</th>
+                <th>Цвет</th>
+                <th>Размер</th>
+                <th>Цена</th>
+            </tr>
+            <tr>
+                <td>Платье</td>
+                <td style="color: blue;">Синий</td>
+                <td>xs</td>
+                <td>1532</td>
+            </tr>
+            <tr>
+                <td>Свитер</td>
+                <td style="color: black;">Черный</td>
+                <td>s</td>
+                <td>1252</td>
+            </tr>
+            <tr>
+                <td>Пальто</td>
+                <td style="color: red;">Красный</td>
+                <td>m</td>
+                <td>9526</td>
+            </tr>
+            <tr>
+                <td>Юбка</td>
+                <td style="color: black;">Черный</td>
+                <td>xs</td>
+                <td>2631</td>
+            </tr>
+            <tr>
+                <td>Топ</td>
+                <td style="color:green;">Зеленый</td>
+                <td>xs</td>
+                <td>952</td>
+            </tr>
+
+        </thead>
+        <tbody>
+
+        </tbody>
+    </table>
+
+
+
+    
+</body>
+</html>
