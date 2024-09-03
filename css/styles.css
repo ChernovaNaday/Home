@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container-1{
+
+}
+
+.container-2{
+    position: absolute;
+    bottom: 0;
+}
+
+.main-header{
+    text-align: center;
+    background: #2196F3;
+}
+
+.main-text{
+    margin: 20px;
+    padding: 20px;
+
+}
+
+.main-img{
+    margin: 50px;
+    padding: 50px;
+}
+
+.main-a{
+    text-align: center;
+}
