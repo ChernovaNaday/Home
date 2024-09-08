@@ -1,0 +1,55 @@
+.table1{
+    width: 100%; 
+    border-collapse: collapse; 
+    border: 1px solid;
+    /* margin-bottom: 30px;
+    margin-top: 30px; */
+    margin: 30px;
+    padding: 0;
+}
+
+
+.line1{
+    background: #fd6262;
+    text-align: left;
+}
+
+.th1{
+    width: 25%
+}
+
+.th2{
+    width: 5%
+}
+
+.th3{
+    width: 50%
+}
+
+.th4{
+    width: 20%;
+}
+
+.grey{
+    background: #9e9e9e26;
+}
+
+.table2{
+    width: 100%; 
+    border-collapse: collapse; 
+    border: 1px solid;
+    /* margin-bottom: 30px;
+    margin-top: 30px; */
+    margin: 30px;
+    padding: 0;
+}
+
+.table3{
+    width: 100%; 
+    border-collapse: collapse; 
+    border: 1px solid;
+    /* margin-bottom: 30px;
+    margin-top: 30px; */
+    margin: 30px;
+    padding: 0;   
+}
