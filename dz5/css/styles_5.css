@@ -19,11 +19,11 @@
 }
 
 .th2{
-    width: 5%
+    width: 15%
 }
 
 .th3{
-    width: 50%
+    width: 40%
 }
 
 .th4{
@@ -52,4 +52,50 @@
     margin-top: 30px; */
     margin: 30px;
     padding: 0;   
+}
+
+.line2{
+    background: #0aab5d;
+    text-align: left; 
+}
+
+.line3{
+    background: #1472c4;
+    text-align: left;    
+}
+
+.th5{
+width:30% ;
+}
+
+.th6{
+    width:15% ;   
+}
+
+.th7{
+    width:15% ;   
+}
+
+.th8{
+    width:20% ;  
+}
+
+.th9{
+    width:20% ;    
+}
+
+.th10{
+    width:20% ;    
+}
+
+.th11{
+    width:40% ;    
+}
+
+.th12{
+    width:30% ;    
+}
+
+.th13{
+    width:10% ;    
 }
