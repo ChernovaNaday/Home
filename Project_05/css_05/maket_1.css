@@ -1,0 +1,32 @@
+.lines{
+    background-color: #2196F3;
+}
+
+.line1{
+    color: white;
+    text-align: center;
+}
+
+.line2{
+    color: white;
+    text-align: left;
+    margin-left: 40px;
+}
+
+.line3{
+    color: white;
+    text-align: right;
+    margin-right: 40px;
+    
+    padding-bottom: 15px;
+}
+
+.form1{
+    border: 1px solid;
+    margin: 15px;
+    margin-right: 1050px;
+}
+
+.lineblok{
+    
+}
