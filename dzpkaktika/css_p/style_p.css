@@ -1,0 +1,21 @@
+.table1{
+    width: 50%;
+    border: 1px solid;
+    margin: 30px;
+    padding: 0;
+    border-collapse: collapse;
+}
+
+.line1{
+  
+    text-align: center;
+}
+
+.words{
+    color: red;
+}
+.footer{
+    text-align: center;
+    line-height: 2x;
+    text-transform: uppercase;
+}
